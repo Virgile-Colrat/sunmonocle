@@ -1,5 +1,5 @@
 THE SUN MONOCLE
-You can find all the info on how the system works and is build: https://www.instructables.com/Cap-Mounted-Sun-monocle/
+You can find all the info on how the system works and is build: https://www.instructables.com/Cap-Mounted-Sun-monocle/ (probably available on june 17th 2024) and a very quick video of the simple design: https://youtu.be/IkB4isfE1hg
 
 
 You r all excited to go to the beach, you get your towel, swimsuit, the cooler and hat and leave to go to the ocean. Oh no, did you forgot your sunglasses ? No! there are integrated to your cap, Phew !
