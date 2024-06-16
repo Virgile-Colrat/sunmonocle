@@ -1,4 +1,4 @@
-# sunmonocleIntro
+# sunmonocle
 You r all excited to go to the beach, you get your towel, swimsuit, the cooler and hat and leave to go to the ocean. Oh no, did you forgot your sunglasses ? No! there are integrated to your cap, Phew !
 In this instructable, I will be sharing how I have made baseball-cap mounted sunglasses (there are more like monocles, but you can use 2 at a time) that can also be adjusted in opacity to adapt to any situation. In this instructable, I used 2 different types of 3D printer, resin (Elegoo Mars 2) & filament (Elegoo Neptune 2). 
 This instructable is divides into 3 different mechanism each with one specific task. In step 1, you find the description of cap mounting mechanism allowing to mount the on the cap in a non-permanent manner. Step 2 describes the mechanism used to hold the lenses into the 2 positions : in front of the eyes or away from the eyes. Finally, step 3 describes the mechanism used to control the amount of light going through the lens i.e. the opacity of the lens
